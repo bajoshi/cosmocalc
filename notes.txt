@@ -1,0 +1,8 @@
+to do list for cosmo calc
+1. keyboard shortcuts i.e. for e.g. i don't want to click on buttons that say open, closed, or flat.
+2. plot(s)
+3. take in multiple redshifts or even other quantities as input
+4. less sig figs in output
+5. more output quantities 
+6. time between redshifts
+7. 
