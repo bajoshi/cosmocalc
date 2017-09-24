@@ -5,4 +5,5 @@ to do list for cosmo calc
 4. less sig figs in output
 5. more output quantities 
 6. time between redshifts
-7. 
+7. save output to text or csv
+8. 
