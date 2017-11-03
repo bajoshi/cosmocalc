@@ -6,4 +6,4 @@ to do list for cosmo calc
 5. more output quantities 
 6. time between redshifts
 7. save output to text or csv
-8. 
+8. of course, it should also show almost all of the useful quantities that Ned Wright's calc has.
